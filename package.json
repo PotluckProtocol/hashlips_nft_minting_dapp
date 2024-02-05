@@ -15,6 +15,9 @@
     "web3": "^1.5.1",
     "web3-eth-contract": "^1.5.2"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "author": "Daniel Eugene Botha (HashLips)",
   "license": "MIT",
   "scripts": {
