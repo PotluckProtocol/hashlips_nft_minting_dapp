@@ -1,17 +1,17 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0xdFD1056C3BaCB701CB0EB04F02d57beA456E34d7",
+  "SCAN_LINK": "https://ftmscan.com/token/0xdfd1056c3bacb701cb0eb04f02d57bea456e34d7",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Fantom",
+    "SYMBOL": "FTM",
+    "ID": 250
   },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
-  "MAX_SUPPLY": 1000,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
-  "GAS_LIMIT": 285000,
+  "NFT_NAME": "KirpillVsFood",
+  "SYMBOL": "KVF",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 150000000000000000000,
+  "DISPLAY_COST": 150,
+  "GAS_LIMIT": 350000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
   "SHOW_BACKGROUND": true
